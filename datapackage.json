@@ -14,29 +14,29 @@
                         "id": "Title",
                         "description": "",
                         "type": "string"
-                    }
+                    },
                     {
                         "id": "Year",
                         "description": "",
                         "type": "number"
-                    }
+                    },
                     {
                         "id": "Likes",
                         "description": "",
                         "type": "number"
-                    }
+                    },
                     {
                         "id": "IMDB",
                         "description": "",
                         "format": "url",
                         "type": "string"
-                    }
+                    },
                     {
                         "id": "Wikipedia",
                         "description": "",
                         "format": "url",
                         "type": "string"
-                    }
+                    },
                     {
                         "id": "Tags",
                         "description": "",
