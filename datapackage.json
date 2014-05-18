@@ -18,7 +18,8 @@
                     {
                         "id": "Year",
                         "description": "",
-                        "type": "number"
+                        "type": "date",
+                        "format": "yyyy"
                     },
                     {
                         "id": "Likes",
