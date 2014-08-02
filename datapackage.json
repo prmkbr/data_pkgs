@@ -50,7 +50,6 @@
             "name": "TED Talks",
             "path": "data/ted_talks.md",
             "format": "csv",
-            "dialect": { "delimiter": "|" },
             "schema": {
                 "fields": [
                     {
