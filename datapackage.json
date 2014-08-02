@@ -45,6 +45,37 @@
                     }
                 ]
             }
+        },
+        {
+            "name": "TED Talks",
+            "path": "data/ted_talks.md",
+            "format": "csv",
+            "dialect": { "delimiter": "|" },
+            "schema": {
+                "fields": [
+                    {
+                        "name": "<star>",
+                        "type": "string"
+                    },
+                    {
+                        "name": "Talk",
+                        "type": "string"
+                    },
+                    {
+                        "name": "Speaker",
+                        "type": "string"
+                    },
+                    {
+                        "name": "URL",
+                        "format": "url",
+                        "type": "string"
+                    },
+                    {
+                        "name": "Tags",
+                        "type": "string"
+                    }
+                ]
+            }
         }
     ]
 }
