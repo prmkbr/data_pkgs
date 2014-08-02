@@ -22,7 +22,7 @@
                         "format": "yyyy"
                     },
                     {
-                        "id": "Likes",
+                        "id": "MeLikes",
                         "description": "",
                         "type": "number"
                     },
