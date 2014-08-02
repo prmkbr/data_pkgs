@@ -48,7 +48,7 @@
         },
         {
             "name": "TED Talks",
-            "path": "data/ted_talks.md",
+            "path": "data/ted_talks.csv",
             "format": "csv",
             "schema": {
                 "fields": [
