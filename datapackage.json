@@ -57,11 +57,11 @@
                         "type": "string"
                     },
                     {
-                        "name": "Talk",
+                        "name": "Speaker",
                         "type": "string"
                     },
                     {
-                        "name": "Speaker",
+                        "name": "Talk",
                         "type": "string"
                     },
                     {
