@@ -11,6 +11,7 @@ Circular linked lists - Attributes, Implementation and Uses|http://onebyezero.bl
 50 Great Examples of Data Visualization|http://www.webdesignerdepot.com/2009/06/50-great-examples-of-data-visualization/|General
 Friendship paradox|http://en.wikipedia.org/wiki/Friendship_paradox|General,Wikipedia,DR
 Impostor syndrome|http://en.wikipedia.org/wiki/Imposter_syndrome|General,Wikipedia,DR
+Leaning toothpick syndrome|http://en.wikipedia.org/wiki/Leaning_toothpick_syndrome|Technical,Wikipedia
 2048|http://gabrielecirulli.github.io/2048/|App_Games
 Game about Squares|http://gameaboutsquares.com/|App_Games
 Game of Hacks|http://www.gameofhacks.com/|Apps,DR
