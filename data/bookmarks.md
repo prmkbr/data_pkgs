@@ -12,6 +12,7 @@ Circular linked lists - Attributes, Implementation and Uses|http://onebyezero.bl
 Friendship paradox|http://en.wikipedia.org/wiki/Friendship_paradox|General,Wikipedia,DR
 Impostor syndrome|http://en.wikipedia.org/wiki/Imposter_syndrome|General,Wikipedia,DR
 Leaning toothpick syndrome|http://en.wikipedia.org/wiki/Leaning_toothpick_syndrome|Technical,Wikipedia
+Query string|http://en.wikipedia.org/wiki/Query_string|Technical,Wikipedia
 2048|http://gabrielecirulli.github.io/2048/|App_Games
 Game about Squares|http://gameaboutsquares.com/|App_Games
 Game of Hacks|http://www.gameofhacks.com/|Apps,DR
