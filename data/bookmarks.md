@@ -13,6 +13,7 @@ VIM|http://www.truth.sk/vim/|Technical,TLDR
 Teach Yourself Programming in Ten Years|http://www.norvig.com/21-days.html|Technical,DR
 4 Ways Leaders Can Create a Candid Culture|http://blogs.hbr.org/2014/07/4-ways-leaders-can-create-a-candid-culture/|General,HBR,DR
 50 Great Examples of Data Visualization|http://www.webdesignerdepot.com/2009/06/50-great-examples-of-data-visualization/|General
+Aesop Fables|http://www.bartleby.com/17/1/|General,TLDR
 An Introduction To CFDs|http://www.investopedia.com/articles/stocks/09/trade-a-cfd.asp|Finance,TD
 Friendship paradox|http://en.wikipedia.org/wiki/Friendship_paradox|General,Wikipedia,DR
 Impostor syndrome|http://en.wikipedia.org/wiki/Imposter_syndrome|General,Wikipedia,DR
